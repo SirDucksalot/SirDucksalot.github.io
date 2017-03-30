@@ -1,10 +1,9 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="DavePatersonVFX.ca" resolutions="1x" timestamp="1481900772753">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="DavePatersonVFX.ca" resolutions="1x" timestamp="1490914064633">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="3804375486" ref="index:breakdown"/>
-    <file name="index.css" crc="4199934486" ref="index"/>
-    <file name="breakdown.css" crc="4250096572" ref="breakdown"/>
-    <file name="cluster.css" crc="193171298" ref="cluster"/>
+    <file name="master_a-master.css" crc="3804375486" ref="breakdown:index"/>
+    <file name="breakdown.css" crc="148558268" ref="breakdown"/>
+    <file name="index.css" crc="356840995" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="at-work_before.jpg" crc="3850841949" seo="true" mt="1459312146000"/>
@@ -25,16 +24,16 @@
     <file name="phone_luckyday_after.jpg" crc="217069576" seo="true" mt="1459315538000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="312386352" ref="phone>index:phone>breakdown:index:breakdown:cluster"/>
-    <file name="museutils.js" crc="4155826306" ref="phone>index:phone>breakdown:index:breakdown:cluster"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>breakdown:index:breakdown:cluster"/>
-    <file name="museconfig.js" crc="328327953" ref="phone>index:phone>breakdown:index:breakdown:cluster"/>
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="phone>index:phone>breakdown:index:breakdown"/>
+    <file name="museutils.js" crc="4155826306" ref="phone>index:phone>breakdown:index:breakdown"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>breakdown:index:breakdown"/>
+    <file name="museconfig.js" crc="328327953" ref="phone>index:phone>breakdown:index:breakdown"/>
     <file name="pie.js" crc="3827607177" ref="phone>index:index"/>
-    <file name="jquery.watch.js" crc="117772946" ref="phone>index:phone>breakdown:index:breakdown:cluster"/>
-    <file name="require.js" crc="228336483" ref="phone>index:phone>breakdown:index:breakdown:cluster"/>
+    <file name="jquery.watch.js" crc="117772946" ref="phone>index:phone>breakdown:index:breakdown"/>
+    <file name="require.js" crc="228336483" ref="phone>index:phone>breakdown:index:breakdown"/>
     <file name="jquery.musemenu.js" crc="3765356681" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:breakdown:cluster"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:breakdown"/>
   </folder>
   <folder name="images">
     <file name="home-favicon.ico" crc="4199824246" ref="phone>index"/>
@@ -49,14 +48,13 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="142936914" ref="phone>breakdown:phone>index"/>
+      <file name="master_a-master.css" crc="3801548158" ref="phone>breakdown:phone>index"/>
       <file name="breakdown.css" crc="63414879" ref="phone>breakdown"/>
       <file name="index.css" crc="4271311403" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4262845644" seo="true" mt="1459358727987" redirect="true"/>
-    <file name="breakdown.html" crc="3805221875" seo="true" mt="1474930001323" redirect="true"/>
+    <file name="index.html" crc="3833791925" seo="true" mt="1490913985873" redirect="true"/>
+    <file name="breakdown.html" crc="496768909" seo="true" mt="1490913985873" redirect="true"/>
   </folder>
-  <file name="index.html" crc="138628161" seo="true" mt="1473126732941" redirect="true"/>
-  <file name="breakdown.html" crc="522778272" seo="true" mt="1474930051612" redirect="true"/>
-  <file name="cluster.html" crc="4009554082" seo="true" mt="1481900732297" redirect="false"/>
+  <file name="index.html" crc="146693014" seo="true" mt="1490914018081" redirect="true"/>
+  <file name="breakdown.html" crc="372059579" seo="true" mt="1490914018081" redirect="true"/>
 </manifest>
