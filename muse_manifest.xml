@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="DavePatersonVFX.ca" resolutions="1x" timestamp="1490915568209">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="DavePatersonVFX.ca" resolutions="1x" timestamp="1490924610277">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="3804375486" ref="breakdown:index"/>
-    <file name="breakdown.css" crc="148558268" ref="breakdown"/>
+    <file name="master_a-master.css" crc="3804375486" ref="index:breakdown"/>
     <file name="index.css" crc="356840995" ref="index"/>
+    <file name="breakdown.css" crc="148558268" ref="breakdown"/>
   </folder>
   <folder name="assets">
     <file name="at-work_before.jpg" crc="3850841949" seo="true" mt="1459312146000"/>
@@ -22,6 +22,7 @@
     <file name="phone_mothman_after.jpg" crc="3820718634" seo="true" mt="1459315539000"/>
     <file name="phone_luckyday_before.jpg" crc="3953798714" seo="true" mt="1459315539000"/>
     <file name="phone_luckyday_after.jpg" crc="217069576" seo="true" mt="1459315538000"/>
+    <file name="moustachesocialmedia.png" crc="194870006" seo="true" mt="1490923735000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="phone>index:phone>breakdown:index:breakdown"/>
@@ -44,7 +45,7 @@
     <file name="st catharines shot 22.jpg" crc="3849817103" ref="index"/>
     <file name="st catharines shot 4.jpg" crc="3988970816" ref="index"/>
     <file name="st catharines shot 14_2.jpg" crc="508281009" ref="index"/>
-    <file name="moustache-layer 02.png" crc="3995883262" seo="true" ref="index:breakdown"/>
+    <file name="moustache-layer 02.png" crc="3884098141" seo="true" ref="index:breakdown"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -52,9 +53,9 @@
       <file name="breakdown.css" crc="63414879" ref="phone>breakdown"/>
       <file name="index.css" crc="4271311403" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3804341477" seo="true" mt="1490915527415" redirect="true"/>
-    <file name="breakdown.html" crc="333950415" seo="true" mt="1490915527415" redirect="true"/>
+    <file name="index.html" crc="54988347" seo="true" mt="1490924582548" redirect="true"/>
+    <file name="breakdown.html" crc="261914981" seo="true" mt="1490924587689" redirect="true"/>
   </folder>
-  <file name="index.html" crc="460545860" seo="true" mt="1490915482474" redirect="true"/>
-  <file name="breakdown.html" crc="409444813" seo="true" mt="1490915516458" redirect="true"/>
+  <file name="index.html" crc="485851947" seo="true" mt="1490924114013" redirect="true"/>
+  <file name="breakdown.html" crc="4141492964" seo="true" mt="1490924576299" redirect="true"/>
 </manifest>
