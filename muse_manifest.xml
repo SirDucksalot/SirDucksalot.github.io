@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="DavePatersonVFX.ca" resolutions="1x" timestamp="1490926669767">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="DavePatersonVFX.ca" resolutions="1x" timestamp="1490981955317">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="master_a-master.css" crc="3804375486" ref="index:breakdown"/>
@@ -53,9 +53,9 @@
       <file name="breakdown.css" crc="63414879" ref="phone>breakdown"/>
       <file name="index.css" crc="4271311403" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3834772208" seo="true" mt="1490926663142" redirect="true"/>
-    <file name="breakdown.html" crc="195031328" seo="true" mt="1490926663142" redirect="true"/>
+    <file name="index.html" crc="56848962" seo="true" mt="1490981949059" redirect="true"/>
+    <file name="breakdown.html" crc="186225554" seo="true" mt="1490981949059" redirect="true"/>
   </folder>
-  <file name="index.html" crc="221072439" seo="true" mt="1490926643282" redirect="true"/>
-  <file name="breakdown.html" crc="491851322" seo="true" mt="1490926643282" redirect="true"/>
+  <file name="index.html" crc="3881981356" seo="true" mt="1490981935010" redirect="true"/>
+  <file name="breakdown.html" crc="337309334" seo="true" mt="1490981935010" redirect="true"/>
 </manifest>
