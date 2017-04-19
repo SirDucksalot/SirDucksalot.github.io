@@ -1,27 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://DavePatersonVFX.ca/index.html</loc>
-    <lastmod>2017-03-31</lastmod>
+    <lastmod>2017-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://DavePatersonVFX.ca/phone/index.html"/>
+    <image:image>
+      <image:loc>http://DavePatersonVFX.ca/images/moustache-layer%200.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://DavePatersonVFX.ca/images/email-icon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://DavePatersonVFX.ca/images/moustache-layer%2002.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://DavePatersonVFX.ca/breakdown.html</loc>
-    <lastmod>2017-03-31</lastmod>
+    <lastmod>2017-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://DavePatersonVFX.ca/phone/breakdown.html"/>
+    <image:image>
+      <image:loc>http://DavePatersonVFX.ca/images/email-icon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://DavePatersonVFX.ca/images/moustache-layer%2004.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://DavePatersonVFX.ca/images/moustache-layer%2005.png</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://DavePatersonVFX.ca/assets/at-work_before.jpg</loc>
-    <lastmod>2016-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://DavePatersonVFX.ca/assets/iatd_after.jpg</loc>
+    <loc>http://DavePatersonVFX.ca/assets/luckyday_before.jpg</loc>
     <lastmod>2016-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -33,14 +45,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://DavePatersonVFX.ca/assets/mothman_after.jpg</loc>
-    <lastmod>2016-03-30</lastmod>
+    <loc>http://DavePatersonVFX.ca/assets/iatd_before.jpg</loc>
+    <lastmod>2016-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://DavePatersonVFX.ca/assets/luckyday_before.jpg</loc>
-    <lastmod>2016-03-30</lastmod>
+    <loc>http://DavePatersonVFX.ca/assets/iatd_after.jpg</loc>
+    <lastmod>2016-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -57,19 +69,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://DavePatersonVFX.ca/assets/mothman_after.jpg</loc>
+    <lastmod>2016-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://DavePatersonVFX.ca/assets/phone_at-work_after.jpg</loc>
     <lastmod>2016-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://DavePatersonVFX.ca/assets/at-work_after.jpg</loc>
-    <lastmod>2016-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://DavePatersonVFX.ca/assets/iatd_before.jpg</loc>
+    <loc>http://DavePatersonVFX.ca/assets/phone_iatd_after.jpg</loc>
     <lastmod>2016-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -105,31 +117,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://DavePatersonVFX.ca/images/moustache-layer%200.png</loc>
-    <lastmod>2017-03-31</lastmod>
+    <loc>http://DavePatersonVFX.ca/assets/at-work_after.jpg</loc>
+    <lastmod>2016-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://DavePatersonVFX.ca/images/email-icon.png</loc>
-    <lastmod>2017-03-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://DavePatersonVFX.ca/images/moustache-layer%2002.png</loc>
-    <lastmod>2017-03-31</lastmod>
+    <loc>http://DavePatersonVFX.ca/assets/at-work_before.jpg</loc>
+    <lastmod>2016-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://DavePatersonVFX.ca/assets/phone_iatd_before.jpg</loc>
-    <lastmod>2016-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://DavePatersonVFX.ca/assets/phone_iatd_after.jpg</loc>
     <lastmod>2016-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,15 +1,14 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="DavePatersonVFX.ca" resolutions="1x" timestamp="1490981955317">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DavePatersonVFX.ca" resolutions="1x" timestamp="1492609432806">
   <folder name="css">
-    <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="3804375486" ref="index:breakdown"/>
-    <file name="index.css" crc="356840995" ref="index"/>
-    <file name="breakdown.css" crc="148558268" ref="breakdown"/>
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="341119476" ref="index:breakdown"/>
+    <file name="index.css" crc="181440593" ref="index"/>
+    <file name="breakdown.css" crc="490126760" ref="breakdown"/>
   </folder>
   <folder name="assets">
-    <file name="at-work_before.jpg" crc="3850841949" seo="true" mt="1459312146000"/>
-    <file name="at-work_after.jpg" crc="189576600" seo="true" mt="1459312146000"/>
-    <file name="iatd_before.jpg" crc="4112621996" seo="true" mt="1459312147000"/>
-    <file name="iatd_after.jpg" crc="4267965115" seo="true" mt="1459312146000"/>
+    <file name="at-work_before.jpg" crc="4206502747" seo="true" mt="1459293508000"/>
+    <file name="iatd_before.jpg" crc="121634967" seo="true" mt="1459293901000"/>
+    <file name="iatd_after.jpg" crc="76394366" seo="true" mt="1459293926000"/>
     <file name="mothman_before.jpg" crc="344720285" seo="true" mt="1459312148000"/>
     <file name="mothman_after.jpg" crc="328097134" seo="true" mt="1459312148000"/>
     <file name="luckyday_before.jpg" crc="3792539794" seo="true" mt="1459312147000"/>
@@ -23,39 +22,62 @@
     <file name="phone_luckyday_before.jpg" crc="3953798714" seo="true" mt="1459315539000"/>
     <file name="phone_luckyday_after.jpg" crc="217069576" seo="true" mt="1459315538000"/>
     <file name="moustachesocialmedia.jpg" crc="3902363777" seo="true" mt="1490924989000"/>
+    <file name="at-work_after.jpg" crc="4012423146" seo="true" mt="1459293554000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="312386352" ref="phone>index:phone>breakdown:index:breakdown"/>
-    <file name="museutils.js" crc="4155826306" ref="phone>index:phone>breakdown:index:breakdown"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>breakdown:index:breakdown"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>breakdown:index:breakdown"/>
     <file name="whatinput.js" crc="86476730" ref="phone>index:phone>breakdown:index:breakdown"/>
-    <file name="museconfig.js" crc="328327953" ref="phone>index:phone>breakdown:index:breakdown"/>
-    <file name="pie.js" crc="3827607177" ref="phone>index:index"/>
-    <file name="jquery.watch.js" crc="117772946" ref="phone>index:phone>breakdown:index:breakdown"/>
-    <file name="require.js" crc="228336483" ref="phone>index:phone>breakdown:index:breakdown"/>
-    <file name="jquery.musemenu.js" crc="3765356681" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>index:phone>breakdown:index:breakdown"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>breakdown:index:breakdown"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:phone>breakdown:index:breakdown"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:breakdown"/>
   </folder>
   <folder name="images">
     <file name="home-favicon.ico" crc="4199824246" ref="phone>index"/>
-    <file name="moustache-layer 0.png" crc="4285650534" seo="true" ref="phone>index:phone>breakdown:index:breakdown"/>
-    <file name="email-icon.png" crc="123173074" seo="true" ref="phone>index:phone>breakdown:index:breakdown"/>
+    <file name="moustache-layer 0.png" crc="3758544053" seo="true" ref="phone>index:phone>breakdown:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="breakdown" alt=""/>
+    </file>
+    <file name="email-icon.png" crc="123173074" seo="true" ref="phone>index:phone>breakdown:index:breakdown">
+      <caption webpage="index" alt=""/>
+      <caption webpage="breakdown" alt=""/>
+      <caption webpage="breakdown" alt=""/>
+    </file>
+    <file name="moustache-layer 02.png" crc="3884098141" seo="true" ref="phone>index:phone>breakdown:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="breakdown" alt=""/>
+    </file>
     <file name="dave-paterson-vfx---breakdown-favicon.ico" crc="4199824246" ref="phone>breakdown"/>
     <file name="dave-paterson-vfx-favicon.ico" crc="4199824246" ref="index"/>
-    <file name="st catharines shot 22.jpg" crc="3849817103" ref="index"/>
-    <file name="st catharines shot 4.jpg" crc="3988970816" ref="index"/>
-    <file name="st catharines shot 14_2.jpg" crc="508281009" ref="index"/>
-    <file name="moustache-layer 02.png" crc="3884098141" seo="true" ref="index:breakdown"/>
+    <file name="st catharines shot 22.jpg" crc="4024792859" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="st catharines shot 4.jpg" crc="135855785" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="st catharines shot 14_2.jpg" crc="4159092989" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="moustache-layer 04.png" crc="3884098141" seo="true" ref="breakdown">
+      <caption webpage="index" alt=""/>
+      <caption webpage="breakdown" alt=""/>
+    </file>
+    <file name="moustache-layer 05.png" crc="3758544053" seo="true" ref="breakdown">
+      <caption webpage="breakdown" alt=""/>
+    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3801548158" ref="phone>breakdown:phone>index"/>
-      <file name="breakdown.css" crc="63414879" ref="phone>breakdown"/>
-      <file name="index.css" crc="4271311403" ref="phone>index"/>
+      <file name="master_a-master.css" crc="44330123" ref="phone>index:phone>breakdown"/>
+      <file name="index.css" crc="3883962362" ref="phone>index"/>
+      <file name="breakdown.css" crc="289811922" ref="phone>breakdown"/>
     </folder>
-    <file name="index.html" crc="56848962" seo="true" mt="1490981949059" redirect="true"/>
-    <file name="breakdown.html" crc="186225554" seo="true" mt="1490981949059" redirect="true"/>
+    <file name="index.html" crc="256274617" seo="true" mt="1492608943621" redirect="true"/>
+    <file name="breakdown.html" crc="308148515" seo="true" mt="1492606611973" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3881981356" seo="true" mt="1490981935010" redirect="true"/>
-  <file name="breakdown.html" crc="337309334" seo="true" mt="1490981935010" redirect="true"/>
+  <file name="index.html" crc="97773420" seo="true" mt="1492609395314" redirect="true"/>
+  <file name="breakdown.html" crc="3898789882" seo="true" mt="1492606615284" redirect="true"/>
 </manifest>
