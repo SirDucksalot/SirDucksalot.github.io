@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DavePatersonVFX.ca" resolutions="1x" timestamp="1569711284357">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DavePatersonVFX.ca" resolutions="1x" timestamp="1569712126273">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="341119476" ref="index:breakdown"/>
@@ -22,6 +22,7 @@
     <file name="phone_priya_before_resized.png" crc="4202143507" seo="true" mt="1569707831000"/>
     <file name="phone_priya_after_resized.png" crc="377960531" seo="true" mt="1569707832000"/>
     <file name="phone_flora_before.png" crc="4075270292" seo="true" mt="1569707829000"/>
+    <file name="phone_flora_after.png" crc="3829301908" seo="true" mt="1569707828000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>breakdown:index:breakdown"/>
@@ -41,7 +42,6 @@
       <caption webpage="breakdown" alt=""/>
     </file>
     <file name="email-icon.png" crc="123173074" seo="true" ref="phone>index:phone>breakdown:index:breakdown">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="breakdown" alt=""/>
       <caption webpage="breakdown" alt=""/>
@@ -75,10 +75,10 @@
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="165883076" ref="phone>index:phone>breakdown"/>
-      <file name="index.css" crc="300932634" ref="phone>index"/>
+      <file name="index.css" crc="460224774" ref="phone>index"/>
       <file name="breakdown.css" crc="81408928" ref="phone>breakdown"/>
     </folder>
-    <file name="index.html" crc="3902262746" seo="true" mt="1569711005638" redirect="true"/>
+    <file name="index.html" crc="36135098" seo="true" mt="1569712120772" redirect="true"/>
     <file name="breakdown.html" crc="3936886312" seo="true" mt="1569708071181" redirect="true"/>
   </folder>
   <file name="index.html" crc="421531246" seo="true" mt="1569710999056" redirect="true"/>
