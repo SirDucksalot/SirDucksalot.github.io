@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DavePatersonVFX.ca" resolutions="1x" timestamp="1569715060890">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DavePatersonVFX.ca" resolutions="1x" timestamp="1569715313765">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="341119476" ref="index:breakdown"/>
-    <file name="index.css" crc="3846440346" ref="index"/>
-    <file name="breakdown.css" crc="14044749" ref="breakdown"/>
+    <file name="index.css" crc="4245221927" ref="index"/>
+    <file name="breakdown.css" crc="4193462783" ref="breakdown"/>
   </folder>
   <folder name="assets">
     <file name="at-work_before.jpg" crc="4206502747" seo="true" mt="1459293508000"/>
@@ -37,23 +37,23 @@
   </folder>
   <folder name="images">
     <file name="home-favicon.ico" crc="4199824246" ref="phone>index"/>
-    <file name="moustache-layer 0.png" crc="22916189" seo="true" ref="phone>index:phone>breakdown">
+    <file name="moustache-layer 0.png" crc="3758544053" seo="true" ref="phone>index:phone>breakdown:index">
       <caption webpage="index" alt=""/>
       <caption webpage="breakdown" alt=""/>
     </file>
     <file name="email-icon.png" crc="123173074" seo="true" ref="phone>index:phone>breakdown:index:breakdown">
       <caption webpage="index" alt=""/>
       <caption webpage="breakdown" alt=""/>
-      <caption webpage="breakdown" alt=""/>
     </file>
-    <file name="moustache-layer 02.png" crc="306605992" seo="true" ref="phone>index:phone>breakdown">
+    <file name="moustache-layer 02.png" crc="3884098141" seo="true" ref="phone>index:phone>breakdown:index:breakdown">
       <caption webpage="index" alt=""/>
       <caption webpage="breakdown" alt=""/>
     </file>
-    <file name="dave-paterson-vfx---breakdown-favicon.ico" crc="4199824246" ref="phone>breakdown"/>
+    <file name="dave-paterson-vfx---breakdown-favicon.ico" crc="4199824246" ref="phone>breakdown:breakdown"/>
     <file name="dave-paterson-vfx-favicon.ico" crc="4199824246" ref="index"/>
-    <file name="moustache-layer 03.png" crc="3758544053" seo="true" ref="index">
+    <file name="moustache-layer 03.png" crc="3758544053" seo="true" ref="breakdown">
       <caption webpage="index" alt=""/>
+      <caption webpage="breakdown" alt=""/>
     </file>
     <file name="st catharines shot 22.jpg" crc="4024792859" ref="index">
       <caption webpage="index" alt=""/>
@@ -63,13 +63,6 @@
     </file>
     <file name="st catharines shot 14_2.jpg" crc="4159092989" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="moustache-layer 04.png" crc="3884098141" seo="true" ref="index:breakdown">
-      <caption webpage="index" alt=""/>
-      <caption webpage="breakdown" alt=""/>
-    </file>
-    <file name="moustache-layer 05.png" crc="3758544053" seo="true" ref="breakdown">
-      <caption webpage="breakdown" alt=""/>
     </file>
   </folder>
   <folder name="phone">
@@ -81,6 +74,6 @@
     <file name="index.html" crc="3945011964" seo="true" mt="1569714994710" redirect="true"/>
     <file name="breakdown.html" crc="3936886312" seo="true" mt="1569708071181" redirect="true"/>
   </folder>
-  <file name="index.html" crc="421531246" seo="true" mt="1569710999056" redirect="true"/>
-  <file name="breakdown.html" crc="199283412" seo="true" mt="1569708080931" redirect="true"/>
+  <file name="index.html" crc="486229040" seo="true" mt="1569715263827" redirect="true"/>
+  <file name="breakdown.html" crc="521947540" seo="true" mt="1569715295088" redirect="true"/>
 </manifest>
