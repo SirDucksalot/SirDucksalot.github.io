@@ -1,135 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="https://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="https://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://DavePatersonVFX.ca/index.html</loc>
-    <lastmod>2019-09-28</lastmod>
+    <loc>http://DavePatersonVFX.ca/index.html</loc>
+    <lastmod>2020-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://DavePatersonVFX.ca/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://DavePatersonVFX.ca/phone/index.html"/>
     <image:image>
-      <image:loc>https://DavePatersonVFX.ca/images/moustache-layer%200.png</image:loc>
+      <image:loc>http://DavePatersonVFX.ca/images/email-icon.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://DavePatersonVFX.ca/images/email-icon.png</image:loc>
+      <image:loc>http://DavePatersonVFX.ca/images/moustache-layer%2003.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://DavePatersonVFX.ca/images/moustache-layer%2002.png</image:loc>
+      <image:loc>http://DavePatersonVFX.ca/images/moustache-layer%2004.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://DavePatersonVFX.ca/breakdown.html</loc>
+    <loc>http://DavePatersonVFX.ca/breakdown.html</loc>
     <lastmod>2019-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://DavePatersonVFX.ca/phone/breakdown.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://DavePatersonVFX.ca/phone/breakdown.html"/>
     <image:image>
-      <image:loc>https://DavePatersonVFX.ca/images/email-icon.png</image:loc>
+      <image:loc>http://DavePatersonVFX.ca/images/email-icon.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://DavePatersonVFX.ca/images/moustache-layer%2002.png</image:loc>
+      <image:loc>http://DavePatersonVFX.ca/images/moustache-layer%2004.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://DavePatersonVFX.ca/images/moustache-layer%2003.png</image:loc>
+      <image:loc>http://DavePatersonVFX.ca/images/moustache-layer%2005.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://DavePatersonVFX.ca/assets/moustachesocialmedia.jpg</loc>
+    <loc>http://DavePatersonVFX.ca/assets/luckyday_before.jpg</loc>
+    <lastmod>2016-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://DavePatersonVFX.ca/assets/phone_luckyday_after.jpg</loc>
+    <lastmod>2016-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://DavePatersonVFX.ca/assets/phone_at-work_after.jpg</loc>
+    <lastmod>2016-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://DavePatersonVFX.ca/assets/phone_luckyday_before.jpg</loc>
+    <lastmod>2016-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://DavePatersonVFX.ca/assets/luckyday_after.jpg</loc>
+    <lastmod>2016-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://DavePatersonVFX.ca/assets/priya_before_resized.png</loc>
+    <lastmod>2019-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://DavePatersonVFX.ca/assets/moustachesocialmedia.jpg</loc>
     <lastmod>2017-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://DavePatersonVFX.ca/assets/phone_luckyday_before.jpg</loc>
-    <lastmod>2016-03-30</lastmod>
+    <loc>http://DavePatersonVFX.ca/assets/priya_after_resized.png</loc>
+    <lastmod>2019-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://DavePatersonVFX.ca/assets/phone_at-work_before.jpg</loc>
-    <lastmod>2016-03-30</lastmod>
+    <loc>http://DavePatersonVFX.ca/assets/flora_after.png</loc>
+    <lastmod>2019-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://DavePatersonVFX.ca/assets/phone_at-work_after.jpg</loc>
-    <lastmod>2016-03-30</lastmod>
+    <loc>http://DavePatersonVFX.ca/assets/phone_priya_before_resized.png</loc>
+    <lastmod>2019-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://DavePatersonVFX.ca/assets/at-work_after.jpg</loc>
+    <loc>http://DavePatersonVFX.ca/assets/phone_priya_after_resized.png</loc>
+    <lastmod>2019-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://DavePatersonVFX.ca/assets/phone_flora_before.png</loc>
+    <lastmod>2019-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://DavePatersonVFX.ca/assets/phone_flora_after.png</loc>
+    <lastmod>2019-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://DavePatersonVFX.ca/assets/at-work_before.jpg</loc>
     <lastmod>2016-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://DavePatersonVFX.ca/assets/luckyday_before.jpg</loc>
-    <lastmod>2016-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://DavePatersonVFX.ca/assets/phone_luckyday_after.jpg</loc>
-    <lastmod>2016-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://DavePatersonVFX.ca/assets/luckyday_after.jpg</loc>
-    <lastmod>2016-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://DavePatersonVFX.ca/assets/priya_after_resized.png</loc>
-    <lastmod>2019-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://DavePatersonVFX.ca/assets/flora_before.png</loc>
-    <lastmod>2019-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://DavePatersonVFX.ca/assets/flora_after.png</loc>
-    <lastmod>2019-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://DavePatersonVFX.ca/assets/phone_priya_before_resized.png</loc>
-    <lastmod>2019-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://DavePatersonVFX.ca/assets/phone_priya_after_resized.png</loc>
-    <lastmod>2019-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://DavePatersonVFX.ca/assets/phone_flora_before.png</loc>
-    <lastmod>2019-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://DavePatersonVFX.ca/assets/phone_flora_after.png</loc>
-    <lastmod>2019-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://DavePatersonVFX.ca/assets/at-work_before.jpg</loc>
+    <loc>http://DavePatersonVFX.ca/assets/at-work_after.jpg</loc>
     <lastmod>2016-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://DavePatersonVFX.ca/assets/priya_before_resized.png</loc>
+    <loc>http://DavePatersonVFX.ca/assets/phone_at-work_before.jpg</loc>
+    <lastmod>2016-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://DavePatersonVFX.ca/assets/flora_before.png</loc>
     <lastmod>2019-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
