@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DavePatersonVFX.ca" resolutions="1x" timestamp="1580845851904">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DavePatersonVFX.ca" resolutions="1x" timestamp="1580846759456">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3804375486" ref="breakdown:index"/>
@@ -74,10 +74,10 @@
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="16130075" ref="phone>index:phone>breakdown"/>
-      <file name="index.css" crc="4202552534" ref="phone>index"/>
+      <file name="index.css" crc="307251065" ref="phone>index"/>
       <file name="breakdown.css" crc="81408928" ref="phone>breakdown"/>
     </folder>
-    <file name="index.html" crc="84886521" seo="true" mt="1580845842908" redirect="true"/>
+    <file name="index.html" crc="90741340" seo="true" mt="1580845955928" redirect="true"/>
     <file name="breakdown.html" crc="3995287329" seo="true" mt="1580845842908" redirect="true"/>
   </folder>
   <file name="index.html" crc="3823355358" seo="true" mt="1580844957492" redirect="true"/>
